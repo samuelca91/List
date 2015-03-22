@@ -8,3 +8,6 @@ http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=366&lan=2&rows=
 
 #EXTINF:-1, Cartoon Network
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&amp;profile=222&amp;lan=2&amp;rows=40&amp;f=.m3u8
+
+#EXTINF:-1, FOX
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
