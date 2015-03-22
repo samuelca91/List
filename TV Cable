@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1, A&E
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=106&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1, AMC HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=366&lan=2&rows=40&f=.m3u8
